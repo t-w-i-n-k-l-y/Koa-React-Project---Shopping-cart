@@ -10,7 +10,9 @@
   "author": "t-w-i-n-k-l-y",
   "license": "ISC",
   "devDependencies": {
-    "parcel": "^2.5.0"
+    "buffer": "^6.0.3",
+    "parcel": "^2.5.0",
+    "process": "^0.11.10"
   },
   "dependencies": {
     "axios": "^0.27.2",
